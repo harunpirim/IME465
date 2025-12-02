@@ -54,3 +54,7 @@ Thumbs.db
 # Logs
 *.log
 
+.python-version
+.gitignore
+pyproject.toml
+uv.lock
